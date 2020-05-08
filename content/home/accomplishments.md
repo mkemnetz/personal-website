@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-01-01"
   date_end = "2019-01-01"
-  description = "Four time recipient of the DEPS Graduate Directed Energy Scholarship."
+  description = """Four time recipient of the DEPS Graduate Directed Energy Scholarship.
+
+  The Directed Energy Professional Society (DEPS) is the premier organization for the exchange of information on the development, application and transition of directed energy (DE) technologies. These technologies include high energy lasers (HEL), high power microwave (HPM) systems and technologies, ultra-short pulse lasers (USPL) and counter DE weapon (CDEW) technologies. DEPS fosters research and development of DE technology for national defense and civil applications through professional communication and education.  The DEPS Graduate Directed Energy Scholarship program offers partial scholarships up to $10,000."""
 
 +++
