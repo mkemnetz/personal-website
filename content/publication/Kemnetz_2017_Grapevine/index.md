@@ -20,7 +20,7 @@ publication: "AIAA SciTech 55th AIAA Aerospace Sciences Meeting"
 publication_short: "55th AIAA Aerospace Sciences Meeting"
 
 abstract: "A multiple aperture approach for the correction of aero-optical distortions is presented.
-Measurements were conducted in Notre Dame’s Tri-Sonic facility at M = 0.2 at 40kHz
+Measurements were conducted in Notre Dame's Tri-Sonic facility at M = 0.2 at 40kHz
 with an $Ap/\delta ≈ 6$. In this work we investigated the convective nature of the wavefront in
 order to verify previous work as well as test the limits of a simply convective assumption.
 We present two models for wavefront correction, a simply convective model and a linear
