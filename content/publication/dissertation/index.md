@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Analysis of the Aero-Optical Component of the Jitter using the Stitching Method"
+title: "Analysis of the aero-aptical component of the jitter using the Stitching Method"
 authors: [Matthew R. Kemnetz]
 date: 2019-07-19
 doi: ""
@@ -26,7 +26,7 @@ In this work an algorithm was developed that takes advantage of the advective na
 The stitching method was used to recover the aero-optical component of the jitter for the experiments described. The predicted results for the RMS of the aero-optical jitter from the stitching method matched well with modeled results. Since the stitching method produces full time series of global tilt, energy spectra were also computed and presented. This information can be used by systems designers to benchmark fast steering mirrors for use in airborne directed energy systems. Finally, additional data collected by other researchers in flight aboard the Airborne Aero-Optics Laboratory (AAOL) were analyzed. Both the RMS of the global tilt and the global tilt energy spectra were computed. The results were found to agree well with the results from other shear layer flows."
 
 # Summary. An optional shortened abstract.
-summary: "One of the major quantities of interest for airborne laser systems is the unsteady variation in pointing direction of the beam, or jitter. In airborne laser systems, the beam jitter is usually thought of as sourced from two components. The component of the jitter caused by mechanical vibration of the optical table, optical elements, etc. is called mechanical jitter. The component of jitter caused by flow structures on the order of the aperture size is called the aero-optical jitter. In typical experiments, information pertaining to the aero-optical component of the jitter is almost always corrupted by mechanical disturbances and is typically removed from the data.  In this work an algorithm was developed that takes advantage of the advective nature of aberrations to compensate for the tip, tilt, and piston removal in experiment. The algorithm is able to recover the aero-optical component of the jitter and to provide time series of global tilt free of mechanical disturbances. This algorithm is called the stitching method."
+summary: "One of the major quantities of interest for airborne laser systems is the unsteady variation in pointing direction of the beam, or jitter. In airborne laser systems, the beam jitter is usually thought of as sourced from two components. The component of the jitter caused by mechanical vibration of the optical table, optical elements, etc. is called mechanical jitter. The component of jitter caused by flow structures on the order of the aperture size is called the aero-optical jitter. In typical..."
 
 tags: [Stitching Method, Jitter, Aero-Optics, Adaptive Optics, Wavefront Sensing, Directed Energy, Fluid Mechanics]
 categories: []
