@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Notre Dame"
   company_url = ""
   location = "Notre Dame, Indiana"
-  date_start = "2013-06"
-  date_end = "2019-11"
+  date_start = "2013-06-01"
+  date_end = "2019-11-01"
   description = """Developed and executed an experimental test plan to investigate key parameters of several
 passive flow control devices. The devices consisted of a single spanwise row of vertically-placed small-diameter pins. Currently working on developing new methods of mitigating aero-optical problems by leveraging the advective nature of aberrations to aid in latency-tolerant adaptive- optic control architecture."""
 
@@ -32,7 +32,16 @@ passive flow control devices. The devices consisted of a single spanwise row of 
   company = "Air Force Research Laboratory"
   company_url = ""
   location = "Kirtland Afb, New Mexico"
-  date_start = "2019-11"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = """"""
+
+  [[experience]]
+  title = "Research Aerospace Engineer"
+  company = "Air Force Research Laboratory"
+  company_url = ""
+  location = "Kirtland Afb, New Mexico"
+  date_start = "2019-11-01"
   date_end = ""
   description = """"""
 
