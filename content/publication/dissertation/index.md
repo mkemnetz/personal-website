@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Analysis of the aero-aptical component of the jitter using the Stitching Method"
+title: "Analysis of the aero-optical component of the jitter using the Stitching Method"
 authors: [Matthew R. Kemnetz]
 date: 2019-07-19
 doi: ""
