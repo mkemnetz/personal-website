@@ -6,6 +6,8 @@ authors: [Matthew R. Kemnetz and Stanislav Gordeyev]
 date: 2017-01-05
 doi: "10.2514/6.2017-1344"
 
+math: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-08T09:49:54-06:00
 
