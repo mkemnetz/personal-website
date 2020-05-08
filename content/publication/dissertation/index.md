@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dissertation"
+title: "Analysis of the Aero-Optical Component of the Jitter using the Stitching Method"
 authors: [Matthew R. Kemnetz]
-date: 2020-05-08T00:32:06-06:00
+date: 2019-07-19
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,9 +24,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Stitching Method, Jitter, Aero-Optics, Adaptive Optics, Wavefront Sensing, Directed Energy, Fluid Mechanics]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
