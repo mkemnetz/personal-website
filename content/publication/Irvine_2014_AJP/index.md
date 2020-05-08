@@ -4,7 +4,7 @@
 title: "Magnet traveling through a conducting pipe: A variation on the analytical approach"
 authors: [Benjamin Irvine, Matthew Kemnetz, Asim Gangopadhyaya, Thomas Ruubel]
 date: 2014-04-01
-doi: ""
+doi: "10.1119/1.4864278"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-08T16:15:38-06:00
