@@ -24,7 +24,7 @@ Measurements were conducted in Notre Dame's Tri-Sonic facility at M = 0.2 at 40k
 with an $Ap/\delta ≈ 6$. In this work we investigated the convective nature of the wavefront in
 order to verify previous work as well as test the limits of a simply convective assumption.
 We present two models for wavefront correction, a simply convective model and a linear
-convolution approach. We found that for a separation of $\Delta/\delta \approx 3 − 4$ a simply convective
+convolution approach. We found that for a separation of $\Delta/\delta \\approx 3 − 4$ a simply convective
 model of wavefront propagation was not sufficient to characterize the downstream wavefront
 from upstream data. POD analysis showed that although the large scale structure of
 the wavefront primarily convects, the small scale structure of the wavefront quickly loses
@@ -33,7 +33,7 @@ with the time-delayed linear convolution, where information over several sequent
 points in the upstream location were used to predict the downstream wavefront. If the
 first 40 POD modes were used in predicting the downstream wavefront, the reduction of
 the overall wavefront error was found to be -8 dB for the small separation of $\Delta/\delta = 1$ and
-nearly -5 dB for the largest separation of $\Delta/\delta \approx = 4$."
+nearly -5 dB for the largest separation of $\Delta/\delta \\approx = 4$."
 
 # Summary. An optional shortened abstract.
 summary: ""
